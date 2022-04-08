@@ -81,6 +81,13 @@ const badgeStyle = {
 // data
 const links = [
   {
+    text: "Scott Was Here",
+    url: "https://www.google.com",
+    description:
+      "Scott was here.  I know because I saw him here...",
+    color: "#E95800",
+  },
+  {
     text: "Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
